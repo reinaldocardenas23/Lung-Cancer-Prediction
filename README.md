@@ -27,5 +27,6 @@ Métodos utilizados:
 ## Enlaces
 - **Video de demostración**: [(https://youtu.be/fPKVTkE6rKU)]
 - **Repositorio principal**: [[GitHub](https://github.com/reinaldocardenas23/Lung-Cancer-Prediction)]
+- **Diapositivas**: [[(https://youtu.be/fPKVTkE6rKU)](https://docs.google.com/presentation/d/1PPuvrN1CYYLV4Ezo6EyHAHuu4PU5FGlW/edit?usp=sharing&ouid=113333750351381140308&rtpof=true&sd=true)]
 
 ---
